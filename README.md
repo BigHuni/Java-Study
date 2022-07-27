@@ -319,6 +319,24 @@ System.out.println("Hello, Java");
 	System.out.println(iNum2);  // 2
 ```
 
-- (int)dNum1 형 변환 먼저 하는데 실수가 정수로 형 변환이 되면,
+- (int)dNum1이 형 변환을 먼저 하는데 실수가 정수로 형 변환이 되면, 1.2 소수점 이하가 `TRUNCATE`
+
+- 따라서, (int)dNum1 이 `1`, (int)fNum은 `0`이 됨
+
+- (int)(dNum1 + fNum) 에서는 먼저 1.2와 0.9를 더해, 소수점이 빠진 `2`가 출력
+
+- 2진수, 8진수, 16진수에서 10 표현
+
+```java
+    int num = 10;
+	int bNum = 0B1010;
+	int oNum = 012;
+	int xNum = 0XA;
+
+	System.out.println(num);   // 10
+	System.out.println(bNum);  // 10
+	System.out.println(oNum);  // 10
+	System.out.println(xNum);  // 10
+```
 
 ---
