@@ -1,11 +1,10 @@
-# Java_Study
+# 📌 Java Study
 
-2022-07-27 수요일
---
+## 🔸 2022-07-27 수요일
 
--	[ ] msa 서버 세팅
-	-	[x] 각 프로젝트 import    
-	-	[x] 각 프로젝트 virtual box에 올리기  
-	-	[x] 가이드 문서(notion) 추가 및 정리하기  
-	-	[x] web-view 서비스 내껄로 추가해보기  
-	-	[x] 로그인 완료  
+## [Java 기초]
+
+- [x] Java 개발환경 구축
+- [x] Eclipse 활용 숙지
+- [x] Java 자료형 정리
+- [x] Eclipse 실습 완료
