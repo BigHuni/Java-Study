@@ -121,3 +121,17 @@
 		math = new Subject();
 	}
 ```
+
+- 생성자 함수를 생성하지 않고 값을 넣지 않게 되면, Null 값이 들어가 오류 발생
+
+<br>
+
+## 🔖 Eclipse 실습
+
+![day6](https://user-images.githubusercontent.com/79084294/182210167-f521a736-512c-41dd-abda-18717581ccd3.png)
+
+<br>
+
+## 🔖 Eclipse 출력 Console
+
+![day6_console](https://user-images.githubusercontent.com/79084294/182210424-1576b224-e3ba-4abc-bd71-48603381f7c9.png)
