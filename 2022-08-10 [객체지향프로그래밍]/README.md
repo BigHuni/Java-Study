@@ -123,4 +123,78 @@ public class Customer {
 
 - bonusPoint, bonusRatio 변수 선언
 
--
+- Customer 메서드는 고객 등급을 실버, 보너스 적립율을 0.01로 설정
+
+- calsPrice 메서드는 price 인스턴스를 리턴 받는데, price에 보너스 적립율을 곱한 금액을 보너스 포인트에 합산
+
+- showCustomerInfo 메서드로 고객의 등급과 적립된 보너스 포인트를 출력
+
+<br>
+
+```java
+package inheritance;
+
+public class VIPCustomer extends Customer {
+
+		double salesRatio;
+		private int agentID;
+
+		public VIPCustomer() {
+			customerGrade = "VIP";
+			bonusRatio = 0.05;
+			salesRatio = 0.1;
+		}
+}
+```
+
+- VIP 고객에게 제공될 할인율과 담당 상단원 ID 변수 선언
+
+- VIPCustomer 메서드는 고객의 등급을 VIP, 보너스 적립율을 0.05, 할인율을 0.1로 설정
+
+<br>
+
+- CustomerTest 클래스
+
+```java
+package inheritance;
+
+public class CustomerTest {
+
+	public static void main(String[] args) {
+
+		Customer customerPark = new Customer();
+		customerPark.setCustomerName("박명수");
+		customerPark.setCustomerID(10010);
+		customerPark.bonusPoint = 1000;
+		System.out.println(customerPark.showCustomerInfo());
+
+		VIPCustomer customerYoo = new VIPCustomer();
+		customerYoo.setCustomerName("유재석");
+		customerYoo.setCustomerID(10020);
+		customerYoo.bonusPoint = 10000;
+		System.out.println(customerYoo.showCustomerInfo());
+	}
+
+}
+```
+
+- 각각의 고객 이름 박명수와 유재석에 대한 정보 입력
+
+- 출력 구문
+
+```
+박명수님의 등급은 SILVER이며, 적립된 보너스 포인트는 1000점 입니다.
+유재석님의 등급은 VIP이며, 적립된 보너스 포인트는 10000점 입니다.
+```
+
+<br>
+
+## 🔖 Eclipse 실습
+
+![day15](https://user-images.githubusercontent.com/79084294/183989296-42499e1b-d3ce-4c30-aaac-8ac6c427af20.png)
+
+<br>
+
+## 🔖 Eclipse 출력 Console
+
+![day15_console1](https://user-images.githubusercontent.com/79084294/183989309-ba6012a7-8bd1-4dc3-9ae9-7d4a17b68443.png)
