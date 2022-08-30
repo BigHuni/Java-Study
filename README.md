@@ -11,6 +11,20 @@
 
 <br>
 
+## 🔸 2022-08-29 월요일
+
+## [스프링부트 프로젝트]
+
+- [x] @RequestParam 재학습
+- [x] SearchParam 구현 & 학습
+- [x] getMultiParameter 구현 & 학습
+- [x] GetMethod JSON 형태 값 내리기 실습
+- [x] SpringTool 실습 완료
+
+---
+
+<br>
+
 ## 🔸 2022-08-28 일요일
 
 ## [Object 클래스]
