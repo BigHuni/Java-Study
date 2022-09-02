@@ -11,6 +11,20 @@
 
 <br>
 
+## 🔸 2022-09-01 목요일
+
+## [스프링부트 프로젝트]
+
+- [x] JPA 학습
+- [x] MySQL DB 생성(Table, Schema, Column)
+- [x] MySQL Workbench 테이블의 열 플래그 학습
+- [x] build gradle - dependency 추가, application.properties 설정
+- [x] IntelliJ Spring, MySQL Workbench 실습 완료
+
+---
+
+<br>
+
 ## 🔸 2022-08-31 수요일
 
 ## [스프링부트 프로젝트]
