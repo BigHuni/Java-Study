@@ -11,6 +11,20 @@
 
 <br>
 
+## 🔸 2022-09-02 금요일
+
+## [스프링부트 프로젝트]
+
+- [x] JPA 학습
+- [x] Entity 생성 후 설정
+- [x] Annotation 학습(Entity, Table, Id, Column, GeneratedValue)
+- [x] Repository 선언 후 CRUD 간단 이해 학습
+- [x] IntelliJ Spring, MySQL Workbench 실습 완료
+
+---
+
+<br>
+
 ## 🔸 2022-09-01 목요일
 
 ## [스프링부트 프로젝트]
