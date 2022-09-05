@@ -11,6 +11,17 @@
 
 <br>
 
+## 🔸 2022-09-04 일요일
+
+## [스프링부트 프로젝트]
+
+- [x] 기본적인 CRUD 학습
+- [x] @Autowired, Dependency Injection(DI) 학습
+- [x] save() 메서드 학습
+- [x] IntelliJ Spring, MySQL Workbench 실습 완료
+
+<br>
+
 ## 🔸 2022-09-03 토요일
 
 ## [객체지향프로그래밍]
