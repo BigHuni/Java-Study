@@ -11,6 +11,20 @@
 
 <br>
 
+## 🔸 2022-09-07 수요일
+
+## [객체지향프로그래밍]
+
+- [x] reflection 프로그래밍 학습
+- [x] newInstance(), getConstructors() 학습
+- [x] 모든 Constructor, Method 반환 출력
+- [x] forName() 메서드와 동적 로딩 학습
+- [x] 동적 로딩 특징 학습
+
+---
+
+<br>
+
 ## 🔸 2022-09-06 화요일
 
 ## [객체지향프로그래밍]
