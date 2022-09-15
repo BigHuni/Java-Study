@@ -4,8 +4,20 @@
 
 - 각 날짜별 폴더 안 README 파일에 해당 Daily Study 자료를 정리
 - 이론 및 실습 내용, Eclipse 실습 목록 기재
-- Eclipse 자바 파일 업로드
-- Git, Eclipse 등 Issue 발생 시 자발적으로 문제 해결 및 PR 요청 후 Reviewer 조언 참조
+- Eclipse, Spring 자바 파일 업로드
+- Git, Eclipse, IntelliJ 등 Issue 발생 시 자발적으로 문제 해결 및 PR 요청 후 Reviewer 조언 참조
+
+---
+
+<br>
+
+## 🔸 2022-09-15 목요일
+
+## [객체지향프로그래밍]
+
+- [x] 컬렉션 프레임워크 학습
+- [x] Collection, Map 인터페이스 학습
+- [x] 자료 구조 학습(ArrayList, LinkedList, Hash, Stack, Queue, Binary Tree)
 
 ---
 
@@ -17,7 +29,7 @@
 
 - [x] 제네릭 프로그래밍 이론 학습
 - [x] 자료형 매개 변수 T 학습
-- [x] 클래스 재사용 방법 학(상위 클래스 생성, 추상 클래스 선언, 상속)
+- [x] 클래스 재사용 방법 학습(상위 클래스 생성, 추상 클래스 선언, 상속)
 - [x] 제너릭 메서드 학습
 - [x] Eclipse 실습 완료
 
