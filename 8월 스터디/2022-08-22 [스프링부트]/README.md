@@ -36,7 +36,7 @@
 - 즉, 사용자 요청에 대해서 어떠한 값이 들어왔는지 확인 불가능
 - getParameter() 메서드를 생성 후 Annotation(@) `GetMapping` 작성
 - `GetMapping`은 메소드를 지정하지 않아도 되고, 주소만 설정해도 됨
-- 스프링에서 이 값을 받아내기 위해 `@RequestParam` 사
+- 스프링에서 이 값을 받아내기 위해 `@RequestParam` 사용
 - `public String getParameter(@RequestParam String id, @RequestParam String password)`
 
 <br>
